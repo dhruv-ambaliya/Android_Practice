@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practical 5</string>
+    <string name="greetings">Hello, Dhruv Ambaliya</string>
+    <string name="direction">Click on button to know your details!</string>
+    <string name="student_name">Dhruv Ambaliya</string>
+    <string name="enrollment_no">Enrollment: 210210107508</string>
+    <string name="semester">Semester: 7</string>
+    <string name="button">Round button</string>
+
+</resources>
